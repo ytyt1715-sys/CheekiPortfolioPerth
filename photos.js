@@ -12,7 +12,6 @@ const PHOTOS = [
   "images/photo-08.jpg",
   "images/photo-09.jpg",
   "images/photo-10.jpg",
-  "images/photo-11.jpg",
   "images/photo-12.jpg",
   "images/photo-13.jpg",
 ];
