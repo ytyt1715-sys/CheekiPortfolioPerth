@@ -1,6 +1,7 @@
 // List every photo you want shown, in order.
 // To add more photos: drop the file into the images/ folder and add its name here.
 const PHOTOS = [
+  "images/photo-11.jpg",
   "images/photo-01.jpg",
   "images/photo-02.jpg",
   "images/photo-03.jpg",
@@ -13,4 +14,5 @@ const PHOTOS = [
   "images/photo-10.jpg",
   "images/photo-11.jpg",
   "images/photo-12.jpg",
+  "images/photo-13.jpg",
 ];
